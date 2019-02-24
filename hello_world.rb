@@ -1,1 +1,1 @@
-puts "Hello World!rub"
+puts "Hello World!"
